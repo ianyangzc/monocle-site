@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+li{
+  list-style: none;
+}
+ul nav header{
+  display:flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+.desktop-menu {
+  list-style: none;
+}
+a{
+  text-decoration: none;
+}
