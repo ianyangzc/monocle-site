@@ -1,6 +1,7 @@
 * {
   box-sizing: border-box;
   color: #000;
+  margin: 1rem;
 }
 li{
   list-style: none;
